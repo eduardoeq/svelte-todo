@@ -1,4 +1,4 @@
-# Svelte Pokedéx
+# Svelte ToDo
  
 This is a SvelteKit Demo.
 
