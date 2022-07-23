@@ -3,7 +3,9 @@
     let things = [
         "Forms",
         "Svelte stores",
-        "Tailwind css"
+        "Tailwind CSS",
+        "Supabase authentication",
+        "Supabase PostgreSQL database"
     ];
 </script>
 <svelte:head>
